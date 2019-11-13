@@ -1,0 +1,2 @@
+# slots
+for class
